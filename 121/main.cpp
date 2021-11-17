@@ -1,5 +1,6 @@
 //  Best Time to Buy and Sell Stock
 // Time Limit exceeded
+// Brute Force Algorithm
 
 class Solution {
 public:
